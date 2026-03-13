@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+chroma_db/
+
+# Large data files
+*.csv
+tagged_description.txt
